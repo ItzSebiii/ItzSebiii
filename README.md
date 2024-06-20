@@ -4,7 +4,7 @@
 <!-- Discord Presence -->
 <div>
     <a href="https://discord.com/users/437682275707125760">
-      <img src="https://lanyard.kyrie25.me/api/437682275707125760?waveColor=e2001e&waveSpotifyColor=ff004f&gradient=e70033-ffffff-ac0026&imgStyle=square" alt="Discord Presence" style="float: right; width: 450px; margin-top: 5px">
+      <img src="https://lanyard.kyrie25.me/api/437682275707125760?waveColor=e2001e&waveSpotifyColor=ff004f&gradient=e70033-ffffff-ac0026&imgStyle=square" alt="Discord Presence" style="float: right; width: auto; height: auto; margin-top: 5px">
     </a>
 </div>
 
